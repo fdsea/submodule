@@ -4,3 +4,6 @@
 [submodule "src/projects/dashboard/assets/i18n/dasboard_translations"]
 	path = src/projects/dashboard/assets/i18n/dasboard_translations
 	url = https://github.com/fdsea/dasboard_translations.git
+[submodule "src/landing/locales/landing_translations"]
+	path = src/landing/locales/landing_translations
+	url = https://github.com/fdsea/landing_translations.git
