@@ -1,3 +1,6 @@
 [submodule "test_submodule"]
 	path = test_submodule
 	url = https://github.com/fdsea/test_submodule.git
+[submodule "src/projects/dashboard/assets/i18n/dasboard_translations"]
+	path = src/projects/dashboard/assets/i18n/dasboard_translations
+	url = https://github.com/fdsea/dasboard_translations.git
